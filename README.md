@@ -1,6 +1,6 @@
 DLSUThesis
 ==========
-Protype for Two-View Face Recognition Using IP Camera
+Prototype for Vision-Based Security System Using Two-View IP Cameras
 De La Salle University - Science and Technology Complex
 
 CANSADO, Jerome C.
